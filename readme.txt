@@ -1,4 +1,16 @@
-Лэндинг. Gulp, scss, flexbox, js, Swiper.
+Сайт одностраничник
 
-Макет
-https://www.figma.com/file/aN4eNCAo2jVel9O7LTKa6h/Puma
+При вёрстке сайт использовался таск-менеджер gulp и препроцессор SCSS
+
+Адаптивный и кроссбраузерный, в CSS используется flexbox и grid layout
+
+Google шрифты, favicon иконка
+
+JavaScript используется для проверки поддержки браузером webp изображений, для меню бургер и выпадающего списка в мобильной версии сайта
+
+Для слайдов используется библиотека Swiperjs
+
+Open Graph и SEO по минимуму
+
+Сайт свёрстан по figma макету
+Макет https://www.figma.com/file/aN4eNCAo2jVel9O7LTKa6h/Puma
